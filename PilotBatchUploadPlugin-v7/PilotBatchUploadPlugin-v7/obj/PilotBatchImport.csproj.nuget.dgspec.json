@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\pilot_plugins_v2\\PilotBatchUploadPlugin-v7\\PilotBatchUploadPlugin-v7\\PilotBatchImport.csproj": {}
+  },
+  "projects": {
+    "C:\\pilot_plugins_v2\\PilotBatchUploadPlugin-v7\\PilotBatchUploadPlugin-v7\\PilotBatchImport.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\pilot_plugins_v2\\PilotBatchUploadPlugin-v7\\PilotBatchUploadPlugin-v7\\PilotBatchImport.csproj",
+        "projectName": "PilotBatcImport.ext2",
+        "projectPath": "C:\\pilot_plugins_v2\\PilotBatchUploadPlugin-v7\\PilotBatchUploadPlugin-v7\\PilotBatchImport.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\pilot_plugins_v2\\PilotBatchUploadPlugin-v7\\PilotBatchUploadPlugin-v7\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "UsingMicrosoftNETSdk": false,
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "framework": "net48",
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "framework": "net48",
+          "dependencies": {
+            "Ascon.Pilot.Bim.SDK": {
+              "target": "Package",
+              "version": "[26.11.0, )"
+            },
+            "Ascon.Pilot.SDK": {
+              "target": "Package",
+              "version": "[26.11.0, )"
+            },
+            "System.ComponentModel.Composition": {
+              "target": "Package",
+              "version": "[10.0.8, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+C:\pilot_plugins_v2\PilotBatchUploadPlugin-v7\PilotBatchUploadPlugin-v7\bin\Debug\PilotBatcImport.ext2.dll
+C:\pilot_plugins_v2\PilotBatchUploadPlugin-v7\PilotBatchUploadPlugin-v7\bin\Debug\PilotBatcImport.ext2.pdb
+C:\pilot_plugins_v2\PilotBatchUploadPlugin-v7\PilotBatchUploadPlugin-v7\obj\Debug\PilotBatchImport.csproj.AssemblyReference.cache
+C:\pilot_plugins_v2\PilotBatchUploadPlugin-v7\PilotBatchUploadPlugin-v7\obj\Debug\PilotBatchImport.csproj.CoreCompileInputs.cache
+C:\pilot_plugins_v2\PilotBatchUploadPlugin-v7\PilotBatchUploadPlugin-v7\obj\Debug\PilotBatcImport.ext2.dll
+C:\pilot_plugins_v2\PilotBatchUploadPlugin-v7\PilotBatchUploadPlugin-v7\obj\Debug\PilotBatcImport.ext2.pdb
+C:\Users\User\AppData\Local\ASCON\Pilot-BIM\Development\PilotBatchImport\PilotBatcImport.ext2.dll
+C:\Users\User\AppData\Local\ASCON\Pilot-BIM\Development\PilotBatchImport\PilotBatcImport.ext2.pdb
+C:\pilot_plugins_v2\PilotBatchUploadPlugin-v7\PilotBatchUploadPlugin-v7\obj\Debug\PilotBat.DBA581A7.Up2Date
