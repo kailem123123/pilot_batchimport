@@ -1,4 +1,4 @@
-# pilot_batchimport
+# batchimport
 # BatchImportPlugin for Ascon Pilot-BIM / Pilot-ICE
 
 ![Pilot-BIM](https://img.shields.io/badge/Platform-Pilot--BIM%20%7C%20Pilot--ICE-blue)
